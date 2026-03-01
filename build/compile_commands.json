@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/workspaces/Projekt/build",
+  "command": "/usr/bin/clang++ -g -std=gnu++17 -o CMakeFiles/main.dir/main.cpp.o -c /workspaces/Projekt/main.cpp",
+  "file": "/workspaces/Projekt/main.cpp",
+  "output": "CMakeFiles/main.dir/main.cpp.o"
+}
+]
